@@ -1,2 +1,0 @@
-# courseraAngular
-Assignment
